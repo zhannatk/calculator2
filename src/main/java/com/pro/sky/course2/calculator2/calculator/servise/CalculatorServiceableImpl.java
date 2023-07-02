@@ -28,7 +28,6 @@ public class CalculatorServiceableImpl implements CalculatorServiceable {
         }
     }
 
-
     @Override
     public String multiply(Integer num1, Integer num2) {
         if (num1 == null || num2 == null) {
